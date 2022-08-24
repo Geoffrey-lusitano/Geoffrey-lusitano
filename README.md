@@ -15,3 +15,7 @@ J’aspire à faire la meilleure utilisation de mon énergie, c’est là l’un
 « L’utilisation la plus efficace possible du potentiel psychique et physique est le principe qui relie tous les cas d’attaque et de défense en judo, et on peut même dire que c’est là son enseignement. Cette meilleure exploitation de l’énergie est l’enseignement le plus important sur le plan de la pratique du judo mais l’est également pour tous les buts de quelque domaine que ce soit de la vie quotidienne » selon SEIRYOKU ZENYO
 
 Enfin mon expérience d’assistant manager à EDF m’a aidé à développer mes capacités de communication, à veiller à une bonne collaboration avec les équipes, à réellement prendre en compte les besoins du client grâce à une écoute active et à une bonne organisation, afin de respecter les engagements pris.
+
+
+Languages and Tools :
+[<img align="left" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px"/>]
