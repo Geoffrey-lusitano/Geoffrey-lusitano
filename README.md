@@ -1,5 +1,5 @@
 # Geoffrey-lusitano
-
+https://www.geoffrey-lusitano.fr/
 J’accompagne les entreprises à la mise en place de leur site ou de leur application pour optimiser la visibilité de leur activité.
 
 J’utilise des technologies modernes comme Vuejs/Reactjs qui permettent des créations fluides, facilitent le référencement et améliorent les performances.
