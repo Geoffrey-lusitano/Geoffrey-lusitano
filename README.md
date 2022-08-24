@@ -18,4 +18,4 @@ Enfin mon expérience d’assistant manager à EDF m’a aidé à développer me
 
 
 Languages and Tools :
-[<img align="left" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px"/>]
+[<img align="left" alt="react" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px"/>]
