@@ -31,6 +31,5 @@ Languages and Tools :
 <img align="left" alt="c#" width="25px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 Mes statistiques :
-![GHstats](https://github-readme-stats.vercel.app/api?username=Geoffrey-lusitano&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffrey-lusitano)](https://github.com/anuraghazra/github-readme-stats)
           
