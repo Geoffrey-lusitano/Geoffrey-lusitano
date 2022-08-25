@@ -31,5 +31,5 @@ Languages and Tools :
 <img align="left" alt="c#" width="25px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 Mes statistiques :
-![GHstats](https://github-readme-stats.vercel.app/apo?username=Geoffrey-Lusitano&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/apo?username=Geoffrey-lusitano&show_icons=true)
           
