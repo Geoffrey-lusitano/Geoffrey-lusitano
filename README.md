@@ -29,7 +29,7 @@ Languages and Tools :
 <img align="left" alt="nuxt" width="25px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img align="left" alt="visualstudio" width="25px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="c#" width="25px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
-
+  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffrey-lusitano)](https://github.com/anuraghazra/github-readme-stats)
           
