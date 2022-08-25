@@ -32,4 +32,5 @@ Languages and Tools :
 
 Mes statistiques :
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Geoffrey-lusitano&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoffrey-lusitano)](https://github.com/anuraghazra/github-readme-stats)
           
