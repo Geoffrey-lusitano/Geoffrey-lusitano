@@ -1,5 +1,5 @@
 # Geoffrey-lusitano
-https://www.geoffrey-lusitano.fr/
+https://www.geoffrey-lusitano.lgcorporation.fr/
 
 J’accompagne les entreprises à la mise en place de leur site ou de leur application pour optimiser la visibilité de leur activité.
 
